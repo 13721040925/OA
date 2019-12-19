@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//config/jdbc.properties=UTF-8
+encoding//config/log4j.properties=UTF-8
+encoding//src/cn/itcast/oa/base/BaseAction.java=UTF-8
+encoding//src/cn/itcast/oa/base/BaseDaoImpl.java=UTF-8
+encoding//src/cn/itcast/oa/base/IBaseDao.java=UTF-8
+encoding//src/cn/itcast/oa/dao/impl/RoleDaoImpl.java=UTF-8
+encoding//src/cn/itcast/oa/domain/Department.java=UTF-8
+encoding//src/cn/itcast/oa/domain/Role.java=UTF-8
+encoding//src/cn/itcast/oa/domain/User.java=UTF-8
+encoding//src/cn/itcast/oa/service/IDepartmentService.java=UTF-8
+encoding//src/cn/itcast/oa/service/IRoleService.java=UTF-8
+encoding//src/cn/itcast/oa/service/impl/DepartmentServiceImpl.java=UTF-8
+encoding//src/cn/itcast/oa/service/impl/RoleServiceImpl.java=UTF-8
